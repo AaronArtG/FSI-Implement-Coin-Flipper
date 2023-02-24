@@ -17,8 +17,16 @@ main {
 }
 
 h1 {
+    font-family: 'Gloock', serif;
+    font-weight: 400;
     margin: 0;
     padding: 25px;
+}
+h2 {
+    font-family: 'Mynerve', cursive;
+    font-weight: 300;
+    color:blueviolet;
+
 }
 
 /* Controls and Message Styles */
